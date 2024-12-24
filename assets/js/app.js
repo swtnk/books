@@ -1,4 +1,4 @@
-const url = './books/assets/books/the_curse_of_avelorn_v1.pdf';
+const url = './assets/books/the_curse_of_avelorn_v1.pdf';
 
 //
 // The workerSrc property shall be specified.
