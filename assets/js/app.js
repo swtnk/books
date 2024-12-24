@@ -1,9 +1,9 @@
-const url = '../assets/books/the_curse_of_avelorn_v1.pdf';
+const url = '/books/assets/books/the_curse_of_avelorn_v1.pdf';
 
 //
 // The workerSrc property shall be specified.
 //
-pdfjsLib.GlobalWorkerOptions.workerSrc = '../assets/js/pdf.worker.js';
+pdfjsLib.GlobalWorkerOptions.workerSrc = '/books/assets/js/pdf.worker.js';
 
 //
 // Asynchronous download PDF
